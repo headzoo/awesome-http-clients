@@ -14,6 +14,7 @@ A curated list of awesome HTTP Clients for exploring, debugging, and testing API
 
 _Desktop HTTP Clients with graphical user interfaces._
 
+- [adOmnia](https://github.com/Andrea-Cavallo/adOmnia) - Built for developers who need more than a simple HTTP client, OpenSource.
 - [API Test Base](https://apitestbase.io/) - Tool for integration testing a variety of APIs.
 - [Advanced REST Client](https://install.advancedrestclient.com/home) - Free and open source API testing tool.
 - [Bruno](https://www.usebruno.com/) Fast and git-friendly open-source API client
